@@ -6,7 +6,7 @@ require (
 	github.com/bradhe/stopwatch v0.0.0-20180424000511-fd55e776a960
 	github.com/btcsuite/btcd v0.0.0-20181130015935-7d2daa5bfef2
 	github.com/btcsuite/btcutil v0.0.0-20180706230648-ab6388e0c60a
-
+	github.com/denkhaus/bitshares v0.6.0 // indirect
 	github.com/denkhaus/gojson v1.0.0
 	github.com/denkhaus/logging v0.0.0-20180714213349-14bfb935047c
 	github.com/emirpasic/gods v1.12.0
