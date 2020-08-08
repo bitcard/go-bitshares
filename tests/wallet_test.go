@@ -5,10 +5,10 @@ import (
 	"math/rand"
 	"testing"
 
-	"github.com/bitcard/bitshares"
-	"github.com/bitcard/bitshares/config"
-	"github.com/bitcard/bitshares/crypto"
-	"github.com/bitcard/bitshares/types"
+	"github.com/bitcard/go-bitshares"
+	"github.com/bitcard/go-bitshares/config"
+	"github.com/bitcard/go-bitshares/crypto"
+	"github.com/bitcard/go-bitshares/types"
 	"github.com/juju/errors"
 	"github.com/stretchr/testify/suite"
 )

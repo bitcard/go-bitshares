@@ -4,18 +4,18 @@ import (
 	"encoding/json"
 	"time"
 
-	"github.com/bitcard/bitshares/api"
-	"github.com/bitcard/bitshares/config"
-	"github.com/bitcard/bitshares/crypto"
-	"github.com/bitcard/bitshares/operations"
-	"github.com/bitcard/bitshares/types"
-	"github.com/bitcard/bitshares/util"
-	"github.com/bitcard/logging"
+	"github.com/bitcard/go-bitshares/api"
+	"github.com/bitcard/go-bitshares/config"
+	"github.com/bitcard/go-bitshares/crypto"
+	"github.com/bitcard/go-bitshares/operations"
+	"github.com/bitcard/go-bitshares/types"
+	"github.com/bitcard/go-bitshares/util"
+	"github.com/denkhaus/logging"
 	"github.com/juju/errors"
 	"github.com/pquerna/ffjson/ffjson"
 
 	// init operations
-	_ "github.com/bitcard/bitshares/operations"
+	_ "github.com/bitcard/go-bitshares/operations"
 )
 
 const (

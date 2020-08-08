@@ -7,7 +7,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/bitcard/logging"
+	"github.com/denkhaus/logging"
 	"github.com/juju/errors"
 	"github.com/pquerna/ffjson/ffjson"
 )

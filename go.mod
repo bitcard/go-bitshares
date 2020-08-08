@@ -7,8 +7,8 @@ require (
 	github.com/btcsuite/btcd v0.0.0-20181130015935-7d2daa5bfef2
 	github.com/btcsuite/btcutil v0.0.0-20180706230648-ab6388e0c60a
 
-	github.com/bitcard/gojson v1.0.0
-	github.com/bitcard/logging v0.0.0-20180714213349-14bfb935047c
+	github.com/denkhaus/gojson v1.0.0
+	github.com/denkhaus/logging v0.0.0-20180714213349-14bfb935047c
 	github.com/emirpasic/gods v1.12.0
 	github.com/fatih/color v1.7.0 // indirect
 	github.com/juju/errors v0.0.0-20181118221551-089d3ea4e4d5

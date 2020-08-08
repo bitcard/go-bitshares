@@ -6,8 +6,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/bitcard/bitshares/util"
-	"github.com/bitcard/logging"
+	"github.com/bitcard/go-bitshares/util"
+	"github.com/denkhaus/logging"
 	"github.com/juju/errors"
 	"github.com/pquerna/ffjson/ffjson"
 )

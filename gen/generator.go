@@ -10,18 +10,18 @@ import (
 	"os"
 	"strings"
 
-	"github.com/bitcard/bitshares"
-	"github.com/bitcard/bitshares/gen/data"
-	"github.com/bitcard/bitshares/tests"
-	"github.com/bitcard/bitshares/types"
-	"github.com/bitcard/logging"
+	"github.com/bitcard/go-bitshares"
+	"github.com/bitcard/go-bitshares/gen/data"
+	"github.com/bitcard/go-bitshares/tests"
+	"github.com/bitcard/go-bitshares/types"
+	"github.com/denkhaus/logging"
 	"github.com/juju/errors"
 	"github.com/pquerna/ffjson/ffjson"
 	"github.com/stretchr/objx"
 	tomb "gopkg.in/tomb.v2"
 
 	// importing this initializes sample data fetching
-	"github.com/bitcard/bitshares/gen/samples"
+	"github.com/bitcard/go-bitshares/gen/samples"
 )
 
 const (

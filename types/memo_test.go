@@ -4,7 +4,7 @@ import (
 	"encoding/hex"
 	"testing"
 
-	"github.com/bitcard/bitshares/config"
+	"github.com/bitcard/go-bitshares/config"
 	"github.com/stretchr/testify/assert"
 )
 

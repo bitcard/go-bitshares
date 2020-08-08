@@ -5,8 +5,8 @@ import (
 	"os"
 	"strings"
 
-	"github.com/bitcard/bitshares/types"
-	"github.com/bitcard/bitshares/util"
+	"github.com/bitcard/go-bitshares/types"
+	"github.com/bitcard/go-bitshares/util"
 	"github.com/juju/errors"
 )
 

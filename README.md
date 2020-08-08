@@ -35,7 +35,7 @@ To generate op samples for testing, go to [gen](/gen) package.
 Generated operation samples get injected automatically while running operation tests.
 
 ## testing
-To test this stuff I use a combined docker based MainNet/TestNet wallet, you can find [here](https://github.com/bitcard/bitshares-docker).
+To test this stuff I use a combined docker based MainNet/TestNet wallet, you can find [here](https://github.com/bitcard/go-bitshares-docker).
 Operations testing uses generated real blockchain sample code by [gen](/gen) package. To test run:
 
 ```bash

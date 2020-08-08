@@ -7,8 +7,8 @@ package types
 import (
 	"fmt"
 
-	"github.com/bitcard/bitshares/util"
-	"github.com/bitcard/logging"
+	"github.com/bitcard/go-bitshares/util"
+	"github.com/denkhaus/logging"
 	"github.com/juju/errors"
 )
 

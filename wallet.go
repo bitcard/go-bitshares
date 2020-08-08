@@ -3,10 +3,10 @@ package bitshares
 import (
 	"fmt"
 
-	"github.com/bitcard/bitshares/api"
-	"github.com/bitcard/bitshares/config"
-	"github.com/bitcard/bitshares/types"
-	"github.com/bitcard/logging"
+	"github.com/bitcard/go-bitshares/api"
+	"github.com/bitcard/go-bitshares/config"
+	"github.com/bitcard/go-bitshares/types"
+	"github.com/denkhaus/logging"
 	"github.com/juju/errors"
 	"github.com/pquerna/ffjson/ffjson"
 )

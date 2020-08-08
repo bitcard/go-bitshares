@@ -4,8 +4,8 @@
 package samples
 
 import (
-	"github.com/bitcard/bitshares/gen/data"
-	"github.com/bitcard/bitshares/types"
+	"github.com/bitcard/go-bitshares/gen/data"
+	"github.com/bitcard/go-bitshares/types"
 )
 
 var (

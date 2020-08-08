@@ -5,7 +5,7 @@ package types
 import (
 	"github.com/pquerna/ffjson/ffjson"
 
-	"github.com/bitcard/bitshares/util"
+	"github.com/bitcard/go-bitshares/util"
 	"github.com/juju/errors"
 )
 

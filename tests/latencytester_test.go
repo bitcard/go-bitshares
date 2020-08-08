@@ -5,8 +5,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/bitcard/bitshares"
-	"github.com/bitcard/bitshares/api"
+	"github.com/bitcard/go-bitshares"
+	"github.com/bitcard/go-bitshares/api"
 	"github.com/stretchr/testify/assert"
 )
 

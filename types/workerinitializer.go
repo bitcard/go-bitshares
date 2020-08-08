@@ -3,7 +3,7 @@ package types
 import (
 	"encoding/json"
 
-	"github.com/bitcard/bitshares/util"
+	"github.com/bitcard/go-bitshares/util"
 	"github.com/juju/errors"
 	"github.com/pquerna/ffjson/ffjson"
 )

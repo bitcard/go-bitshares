@@ -3,8 +3,8 @@ package types
 import (
 	"encoding/json"
 
-	"github.com/bitcard/bitshares/util"
-	"github.com/bitcard/logging"
+	"github.com/bitcard/go-bitshares/util"
+	"github.com/denkhaus/logging"
 	sort "github.com/emirpasic/gods/utils"
 	"github.com/juju/errors"
 	"github.com/pquerna/ffjson/ffjson"

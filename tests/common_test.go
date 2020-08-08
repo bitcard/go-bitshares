@@ -4,13 +4,13 @@ import (
 	"testing"
 	"time"
 
-	"github.com/bitcard/bitshares"
-	"github.com/bitcard/bitshares/config"
-	"github.com/bitcard/bitshares/types"
+	"github.com/bitcard/go-bitshares"
+	"github.com/bitcard/go-bitshares/config"
+	"github.com/bitcard/go-bitshares/types"
 	"github.com/stretchr/testify/suite"
 
 	//import operations to initialize types.OperationMap
-	_ "github.com/bitcard/bitshares/operations"
+	_ "github.com/bitcard/go-bitshares/operations"
 )
 
 type commonTest struct {

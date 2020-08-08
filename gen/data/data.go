@@ -1,7 +1,7 @@
 package data
 
 import (
-	"github.com/bitcard/bitshares/types"
+	"github.com/bitcard/go-bitshares/types"
 	"github.com/juju/errors"
 )
 

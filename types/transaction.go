@@ -5,7 +5,7 @@ package types
 import (
 	"time"
 
-	"github.com/bitcard/bitshares/util"
+	"github.com/bitcard/go-bitshares/util"
 	"github.com/juju/errors"
 )
 

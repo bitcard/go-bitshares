@@ -3,9 +3,9 @@ package main
 import (
 	"fmt"
 
-	"github.com/bitcard/bitshares/gen/data"
-	"github.com/bitcard/bitshares/types"
-	"github.com/bitcard/logging"
+	"github.com/bitcard/go-bitshares/gen/data"
+	"github.com/bitcard/go-bitshares/types"
+	"github.com/denkhaus/logging"
 	"github.com/juju/errors"
 	"github.com/mitchellh/reflectwalk"
 	"github.com/stretchr/objx"

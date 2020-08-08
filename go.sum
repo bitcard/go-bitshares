@@ -1,5 +1,6 @@
 github.com/aead/siphash v1.0.1 h1:FwHfE/T45KPKYuuSAKyyvE+oPWcaQ+CUmFW0bPlM+kg=
 github.com/aead/siphash v1.0.1/go.mod h1:Nywa3cDsYNNK3gaciGTWPwHt0wlpNV15vwmswBAUSII=
+github.com/bitcard/go-bitshares v0.4.27 h1:qHKNZ5KxMr0FkIBYoG6pzJomalP7H4iktGGJoaqRSXc=
 github.com/bradhe/stopwatch v0.0.0-20180424000511-fd55e776a960 h1:YJWTgxlTgeHlvhe7tZJm0yBcg2GhjDQs8zig5O5vup8=
 github.com/bradhe/stopwatch v0.0.0-20180424000511-fd55e776a960/go.mod h1:P/j2DSP/kCOakHBACzMqmOdrTEieqdSiB3U9fqk7qgc=
 github.com/btcsuite/btcd v0.0.0-20181130015935-7d2daa5bfef2 h1:LPHpTTuR7vj3kD7YDRZnrDnFAoj1Ov4cpiO3jN8RnW4=
@@ -22,10 +23,10 @@ github.com/davecgh/go-spew v0.0.0-20171005155431-ecdeabc65495/go.mod h1:J7Y8YcW2
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
-github.com/bitcard/gojson v1.0.0 h1:p1hAlN/yAvRvzbdO1HNDQvmBslfyk64IMt3O3DtftPU=
-github.com/bitcard/gojson v1.0.0/go.mod h1:DkbeLekwsSNeg+G3ns0YdxtbRMr1OoPoxf+rcrd1d44=
-github.com/bitcard/logging v0.0.0-20180714213349-14bfb935047c h1:imM7UU8JD1sNuk2tVEk3QvrY2RZ5f/DOB+UA7c5ThGs=
-github.com/bitcard/logging v0.0.0-20180714213349-14bfb935047c/go.mod h1:NoshWlJzg/buES7COwcZSPtRKrnfJI+TyRyzWrCoEm0=
+github.com/denkhaus/gojson v1.0.0 h1:p1hAlN/yAvRvzbdO1HNDQvmBslfyk64IMt3O3DtftPU=
+github.com/denkhaus/gojson v1.0.0/go.mod h1:DkbeLekwsSNeg+G3ns0YdxtbRMr1OoPoxf+rcrd1d44=
+github.com/denkhaus/logging v0.0.0-20180714213349-14bfb935047c h1:imM7UU8JD1sNuk2tVEk3QvrY2RZ5f/DOB+UA7c5ThGs=
+github.com/denkhaus/logging v0.0.0-20180714213349-14bfb935047c/go.mod h1:NoshWlJzg/buES7COwcZSPtRKrnfJI+TyRyzWrCoEm0=
 github.com/emirpasic/gods v1.12.0 h1:QAUIPSaCu4G+POclxeqb3F+WPpdKqFGlw36+yOzGlrg=
 github.com/emirpasic/gods v1.12.0/go.mod h1:YfzfFFoVP/catgzJb4IKIqXjX78Ha8FMSDh3ymbK86o=
 github.com/fatih/color v1.7.0 h1:DkWD4oS2D8LGGgTQ6IvwJJXSL5Vp2ffcQg58nFV38Ys=

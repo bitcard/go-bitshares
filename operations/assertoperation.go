@@ -3,9 +3,9 @@ package operations
 //go:generate ffjson $GOFILE
 
 import (
-	"github.com/bitcard/bitshares/types"
-	"github.com/bitcard/bitshares/util"
-	"github.com/bitcard/logging"
+	"github.com/bitcard/go-bitshares/types"
+	"github.com/bitcard/go-bitshares/util"
+	"github.com/denkhaus/logging"
 	"github.com/juju/errors"
 )
 

@@ -8,7 +8,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/bitcard/bitshares/util"
+	"github.com/bitcard/go-bitshares/util"
 	sort "github.com/emirpasic/gods/utils"
 	"github.com/juju/errors"
 )

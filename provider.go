@@ -3,8 +3,8 @@ package bitshares
 import (
 	"encoding/json"
 
-	"github.com/bitcard/bitshares/api"
-	"github.com/bitcard/logging"
+	"github.com/bitcard/go-bitshares/api"
+	"github.com/denkhaus/logging"
 	"github.com/juju/errors"
 	deadlock "github.com/sasha-s/go-deadlock"
 	"github.com/tevino/abool"
