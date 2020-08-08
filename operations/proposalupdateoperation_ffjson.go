@@ -7,7 +7,7 @@ import (
 	"bytes"
 	"encoding/json"
 	"fmt"
-	"github.com/denkhaus/bitshares/types"
+	"github.com/bitcard/bitshares/types"
 	fflib "github.com/pquerna/ffjson/fflib/v1"
 )
 

@@ -4,8 +4,8 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/denkhaus/bitshares/util"
-	"github.com/denkhaus/logging"
+	"github.com/bitcard/bitshares/util"
+	"github.com/bitcard/logging"
 	"github.com/juju/errors"
 	"github.com/pquerna/ffjson/ffjson"
 )

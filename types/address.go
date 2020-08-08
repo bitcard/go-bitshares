@@ -6,8 +6,8 @@ import (
 	"fmt"
 
 	"github.com/btcsuite/btcutil/base58"
-	"github.com/denkhaus/bitshares/config"
-	"github.com/denkhaus/bitshares/util"
+	"github.com/bitcard/bitshares/config"
+	"github.com/bitcard/bitshares/util"
 	"github.com/juju/errors"
 	"github.com/pquerna/ffjson/ffjson"
 )

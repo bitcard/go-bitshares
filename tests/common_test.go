@@ -4,13 +4,13 @@ import (
 	"testing"
 	"time"
 
-	"github.com/denkhaus/bitshares"
-	"github.com/denkhaus/bitshares/config"
-	"github.com/denkhaus/bitshares/types"
+	"github.com/bitcard/bitshares"
+	"github.com/bitcard/bitshares/config"
+	"github.com/bitcard/bitshares/types"
 	"github.com/stretchr/testify/suite"
 
 	//import operations to initialize types.OperationMap
-	_ "github.com/denkhaus/bitshares/operations"
+	_ "github.com/bitcard/bitshares/operations"
 )
 
 type commonTest struct {

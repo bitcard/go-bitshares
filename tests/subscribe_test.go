@@ -4,9 +4,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/denkhaus/bitshares"
-	"github.com/denkhaus/bitshares/util"
-	"github.com/denkhaus/logging"
+	"github.com/bitcard/bitshares"
+	"github.com/bitcard/bitshares/util"
+	"github.com/bitcard/logging"
 	"github.com/stretchr/testify/suite"
 	"gopkg.in/cheggaaa/pb.v1"
 )

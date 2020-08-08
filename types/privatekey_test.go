@@ -4,8 +4,8 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/denkhaus/bitshares/config"
-	"github.com/denkhaus/bitshares/util"
+	"github.com/bitcard/bitshares/config"
+	"github.com/bitcard/bitshares/util"
 	"github.com/stretchr/testify/assert"
 )
 

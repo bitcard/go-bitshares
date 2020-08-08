@@ -7,8 +7,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/denkhaus/bitshares/types"
-	"github.com/denkhaus/logging"
+	"github.com/bitcard/bitshares/types"
+	"github.com/bitcard/logging"
 	sort "github.com/emirpasic/gods/utils"
 	deadlock "github.com/sasha-s/go-deadlock"
 	"gopkg.in/tomb.v2"

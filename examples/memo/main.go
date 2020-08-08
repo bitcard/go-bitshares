@@ -5,8 +5,8 @@ import (
 	"log"
 	"math/rand"
 
-	"github.com/denkhaus/bitshares/config"
-	"github.com/denkhaus/bitshares/types"
+	"github.com/bitcard/bitshares/config"
+	"github.com/bitcard/bitshares/types"
 	"github.com/juju/errors"
 )
 
